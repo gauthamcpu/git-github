@@ -1,2 +1,2 @@
-console.log("vesion 4")
-alert('version 4')
+console.log("hello")
+alert('world')
